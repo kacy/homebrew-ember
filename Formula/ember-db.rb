@@ -1,8 +1,8 @@
 class EmberDb < Formula
   desc "low-latency, memory-efficient distributed cache"
   homepage "https://github.com/kacy/ember"
-  url "https://github.com/kacy/ember/archive/refs/tags/v0.4.8.tar.gz"
-  sha256 "e3b6e5592effd83a9a2ecd74d2ec08deccbfd6ee6ed5284218a4f995144bcbee"
+  url "https://github.com/kacy/ember/archive/refs/tags/v0.4.9.tar.gz"
+  sha256 "caa4ea254eee51d07ad97aae689335c4d9a16bf591d1312df344d382521a84bf"
   license "MIT"
   head "https://github.com/kacy/ember.git", branch: "main"
 
